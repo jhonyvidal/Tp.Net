@@ -1,0 +1,9 @@
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\bin\Release\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\bin\Release\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\bin\Release\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\obj\Release\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\obj\Release\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\obj\Release\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\obj\Release\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\obj\Release\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Entidades\obj\Release\netcoreapp2.1\Sistema.Entidades.pdb

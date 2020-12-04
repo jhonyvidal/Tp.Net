@@ -1,0 +1,112 @@
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\ASP Net core vuejs\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+E:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.g.cshtml.cs
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\shared\Layout.g.cshtml.cs
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+E:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.cshtml.g.cs
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\shared\Layout.cshtml.g.cs
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\shared\Layout.cshtml.g.cs
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Users\Desarrollo\Documents\TPNet\Sistema\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
